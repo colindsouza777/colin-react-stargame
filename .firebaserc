@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "colin-react-stargame",
+    "colin-react-stargame": "colin-react-stargame"
+  }
+}
